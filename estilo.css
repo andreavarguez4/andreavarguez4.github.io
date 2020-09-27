@@ -1,0 +1,44 @@
+.cuerpo{
+    background-color: cornflowerblue;
+
+}
+#datosprivados{
+    background-color: blueviolet;
+    border: black;
+    border-style: solid;
+    margin: 10px;   
+}
+#foto{
+    float: left;
+    margin-right: 20px;
+
+}
+.fondos{
+    background-color: plum;
+}
+#foto2{
+    float: right;
+
+}
+.info{
+    background-color: blueviolet;
+    border: black;
+    border-style: solid;
+    margin: 10px;
+}
+
+.fotos{
+    border-color: black;
+    border-style: solid;
+    border-width: 3px;
+    padding:15px;
+    margin: 15px;
+    background-color: palevioletred;
+    text-align: center;
+}
+
+.fotoos{
+    margin: 50px;
+    margin-left: 55px;
+    margin-right: 55px;
+}
